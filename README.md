@@ -57,7 +57,7 @@ A Python tool to convert **exam call lists by committees** from Markdown format 
 ### الخطوة 1: تحميل المشروع | Clone or Download
 
 ```bash
-git clone <https://github.com/chebichebkheireddine/ExamList_Converter.git>
+git clone https://github.com/chebichebkheireddine/ExamList_Converter.git
 cd ExamList_Converter
 ```
 
